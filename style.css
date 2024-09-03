@@ -1,0 +1,125 @@
+/* FONDO */
+#fondo {
+    /*background: linear-gradient(to right, rgb(57, 53, 53),gray  );*/
+    background-color: rgb(184, 184, 184);
+
+}
+
+/* SUBTITLES */
+.subtitles {
+    text-decoration: underline;
+    font-size: 26px;
+
+}
+
+#img {
+    display: block;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+/* FONDO */
+.h3 {
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+/* MAIN-TITLE */
+#main-title{
+    margin: 2px;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 55px;
+
+}   
+
+/* PARRAFO PRINCIPAL */
+.pp {
+    font-size: 24px;
+    text-align: center;
+
+}
+
+/* PARRAFO */
+.p {
+    font-size: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.resaltador {
+    color: black;
+    background-color: yellowgreen;
+    font-weight: 250;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: overline;
+}
+
+
+#parrafo1{
+    font-size: 28px;
+}
+*/
+/* MODELO DE LA CAJA - BOX MODEL
+
+    MARGIN
+    BORDER
+    PADDING
+    CONTENCT --> No se toca
+
+*/
+
+/*
+h1:hover{
+
+    background-color: blueviolet;
+    color: white;
+
+}
+
+h1:active{
+
+    background-color: brown;
+    color: red;
+
+}
+*/
